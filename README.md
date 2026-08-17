@@ -1,36 +1,46 @@
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td align="center" width="240">
 
-<div align="center">
-  <img src="./tux-linux.gif" width="200">
-</div>
+<td align="center" width="240" style="border: none;">
+
+<img src="./tux-linux.gif" width="200">
 
 </td>
 
-<td align="left">
+<td align="left" style="border: none;">
 
 <div align="left">
 
-# 👋 Hey, I'm Sertaç
+<h1>👋 Hey, I'm Sertaç</h1>
 
-### aka **Arctic Terminal**
+<h3>aka <strong>Arctic Terminal</strong></h3>
 
-Linux • Open Source • Developer Tools
+<p>Linux • Open Source • Developer Tools</p>
 
-*I like building things that are useful, fast, and a little bit nerdy.*
+<p>
+<i>I like building things that are useful, fast, and a little bit nerdy.</i>
+</p>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-sertacartun-181717?style=flat-square&logo=github)](https://github.com/sertacartun)
-[![YouTube](https://img.shields.io/badge/YouTube-Arctic%20Terminal-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@ArcticTerminal)
-[![Website](https://img.shields.io/badge/Website-sertacartun.com-111111?style=flat-square&logo=google-chrome)](https://sertacartun.com)
+<a href="https://github.com/sertacartun">
+<img src="https://img.shields.io/badge/GitHub-sertacartun-181717?style=flat-square&logo=github">
+</a>
+
+<a href="https://www.youtube.com/@ArcticTerminal">
+<img src="https://img.shields.io/badge/YouTube-Arctic%20Terminal-FF0000?style=flat-square&logo=youtube">
+</a>
+
+<a href="https://sertacartun.com">
+<img src="https://img.shields.io/badge/Website-sertacartun.com-111111?style=flat-square&logo=google-chrome">
+</a>
 
 </div>
 
 </td>
+
 </tr>
 </table>
 
