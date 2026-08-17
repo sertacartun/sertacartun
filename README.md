@@ -1,9 +1,9 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="200">
+<td width="200" style="border: none;">
 <img src="./tux-linux.gif" width="180">
 </td>
-<td>
+<td style="border: none;">
 
 # 👋 Hey, I'm Sertaç
 ### aka **Arctic Terminal**
@@ -46,8 +46,6 @@ Some things I'm currently building:
 | --- | --- |
 | [**Spotea**](https://github.com/sertacartun/spotea) | Self-hosted YouTube RSS → audio downloader and player |
 | [**grepstein**](https://github.com/sertacartun/grepstein) | A lightweight command-line utility |
-
----
 
 ## 📈 GitHub
 
