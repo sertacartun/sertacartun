@@ -28,7 +28,6 @@ My main interests are:
 * 📊 Data, analytics & tracking
 * 🛠️ Small tools that solve real problems
 
-I use **Arch Linux btw.**
 
 ---
 
