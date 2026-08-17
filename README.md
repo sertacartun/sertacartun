@@ -1,3 +1,5 @@
+<img src="./tux-linux.gif" width="180" height="212" align="left">
+
 ### 👋 Hey, I'm Sertaç
 
 **aka Arctic Terminal**
