@@ -18,7 +18,7 @@ Linux • Open Source • Developer Tools
 
 ## 🧊 About
 
-I'm a developer who enjoys working close to the system and building tools around the software I use every day.
+I'm a digital analyst & open-source developer who enjoys working close to the system and building tools around the software I use every day.
 
 My main interests are:
 
