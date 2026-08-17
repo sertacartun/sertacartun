@@ -1,47 +1,66 @@
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0">
+<table>
 <tr>
+<td width="200">
+<img src="./tux-linux.gif" width="180">
+</td>
+<td>
 
-<td align="center" width="240" style="border: none;">
+# 👋 Hey, I'm Sertaç
+### aka **Arctic Terminal**
 
-<img src="./tux-linux.gif" width="200">
+Linux • Open Source • Developer Tools
+
+*I like building things that are useful, fast, and a little bit nerdy.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-sertacartun-181717?style=flat-square&logo=github)](https://github.com/sertacartun)
+[![YouTube](https://img.shields.io/badge/YouTube-Arctic%20Terminal-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@ArcticTerminal)
+[![Website](https://img.shields.io/badge/Website-sertacartun.com-111111?style=flat-square&logo=google-chrome)](https://sertacartun.com)
 
 </td>
-
-<td align="left" style="border: none;">
-
-<div align="left">
-
-<h1>👋 Hey, I'm Sertaç</h1>
-
-<h3>aka <strong>Arctic Terminal</strong></h3>
-
-<p>Linux • Open Source • Developer Tools</p>
-
-<p>
-<i>I like building things that are useful, fast, and a little bit nerdy.</i>
-</p>
-
-<br>
-
-<a href="https://github.com/sertacartun">
-<img src="https://img.shields.io/badge/GitHub-sertacartun-181717?style=flat-square&logo=github">
-</a>
-
-<a href="https://www.youtube.com/@ArcticTerminal">
-<img src="https://img.shields.io/badge/YouTube-Arctic%20Terminal-FF0000?style=flat-square&logo=youtube">
-</a>
-
-<a href="https://sertacartun.com">
-<img src="https://img.shields.io/badge/Website-sertacartun.com-111111?style=flat-square&logo=google-chrome">
-</a>
-
-</div>
-
-</td>
-
 </tr>
 </table>
+
+---
+
+## 🧊 About
+
+I'm a developer who enjoys working close to the system and building tools around the software I use every day.
+
+My main interests are:
+
+* 🐧 Linux & the open-source ecosystem
+* 💻 CLI and developer tooling
+* 🐳 Self-hosting and Docker
+* 📊 Data, analytics & tracking
+* 🛠️ Small tools that solve real problems
+
+I use **Arch Linux btw.**
+
+---
+
+## Open Source
+
+Some things I'm currently building:
+
+| Project | Description |
+| --- | --- |
+| [**Spotea**](https://github.com/sertacartun/spotea) | Self-hosted YouTube RSS → audio downloader and player |
+| [**grepstein**](https://github.com/sertacartun/grepstein) | A lightweight command-line utility |
+
+---
+
+## 📈 GitHub
+
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=sertacartun&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165">
+<img src="https://streak-stats.demolab.com/?user=sertacartun&theme=github-dark-blue&hide_border=true" height="165">
+</div>
+
+---
+
+<div align="center">
+
+### 🧊 Arctic Terminal
+*Build it. Break it. Fix it. Ship it.*
 
 </div>
