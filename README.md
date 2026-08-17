@@ -1,6 +1,6 @@
-<img src="./tux-linux.gif" width="180" height="212" align="left">
+<img src="./tux-linux.gif" align="left">
 
-### 👋 Hey, I'm Sertaç
+**👋 Hey, I'm Sertaç**
 
 **aka Arctic Terminal**
 
