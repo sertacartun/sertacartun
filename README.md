@@ -37,7 +37,7 @@ Some things I'm currently building:
 
 | Project | Description |
 | --- | --- |
-| [**Spotea**](https://github.com/sertacartun/spotea) | Self-hosted YouTube RSS → audio downloader and player |
+| [**spotea**](https://github.com/sertacartun/spotea) | Self-hosted YouTube RSS → audio downloader and player |
 | [**grepstein**](https://github.com/sertacartun/grepstein) | A lightweight command-line utility |
 
 ## 📈 GitHub
