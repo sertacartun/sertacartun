@@ -1,4 +1,4 @@
-<img src="./tux-linux.gif" align="left">
+<img src="./tux-linux.gif" align="left" width=200>
 
 **👋 Hey, I'm Sertaç**
 
