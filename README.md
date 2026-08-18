@@ -1,4 +1,4 @@
-<img src="./arch.gif" align=left width=50>
+<img src="./arch.gif" align=left width=200>
 
 **Hey, I'm Sertaç**
 
