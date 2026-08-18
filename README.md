@@ -1,5 +1,5 @@
 <div>
-  <img src="./arch.gif" align=left width=150>
+  <img src="./arch.gif" align=left width=175>
 </div>
 
 **Hey, I'm Sertaç**
