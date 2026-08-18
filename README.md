@@ -1,3 +1,5 @@
+<img src="./arch.gif" align=left width=50>
+
 **Hey, I'm Sertaç**
 
 **a.k.a. Arctic Terminal**
