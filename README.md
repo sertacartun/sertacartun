@@ -1,8 +1,6 @@
-<img src="./tux-linux.gif" align="left" width=200>
+**Hey, I'm Sertaç**
 
-**👋 Hey, I'm Sertaç**
-
-**aka Arctic Terminal**
+**a.k.a. Arctic Terminal**
 
 Linux • Open Source • Developer Tools
 
