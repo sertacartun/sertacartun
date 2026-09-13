@@ -8,8 +8,6 @@ Linux • Open Source • Developer Tools
 [![YouTube](https://img.shields.io/badge/YouTube-Arctic%20Terminal-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@ArcticTerminal)
 [![Website](https://img.shields.io/badge/Website-sertacartun.com-111111?style=flat-square&logo=google-chrome)](https://sertacartun.com)
 
-<br clear="left">
-
 ---
 
 ## About
