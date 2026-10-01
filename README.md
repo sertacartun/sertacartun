@@ -28,7 +28,7 @@ Some things I'm currently building:
 
 | Project | Description |
 | --- | --- |
-| [**sway-layout**](https://github.com/sertacartun/sway-layout) | Per-workspace tiling layouts for sway |
+| [**swaytiles**](https://github.com/sertacartun/swaytiles) | Per-workspace tiling layouts for sway |
 | [**spotea**](https://github.com/sertacartun/spotea) | Self-hosted Spotify & YTMusic alternative |
 | [**grepstein**](https://github.com/sertacartun/grepstein) | A lightweight command-line utility |
 
